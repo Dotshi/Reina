@@ -1,3 +1,4 @@
+//Nicolas Magurno BTS SIO SLAM 1 2021-2022
 #include <stdio.h>
 #include <ctype.h>
 
